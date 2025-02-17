@@ -1,0 +1,23 @@
+Remote access to Linux server "hermes" (apollo)
+
+ssh jdoe@hermes.waketech.edu 
+
+host: hermes.waketech.edu   (i.e., server)
+username: jdoe
+password: check your email
+FTP port: 22
+
+https://hermes.waketech.edu/~umramos
+
+I am using user as an example: umramos
+
+We will use FTP tool to upload/download files.
+
+What tool: FileZilla
+https://hermes.waketech.edu/~frank/software
+
+
+
+
+
+
